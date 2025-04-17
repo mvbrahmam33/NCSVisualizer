@@ -3,7 +3,7 @@
 A real-time music visualizer inspired by NCS (NoCopyrightSounds) style, built in C++ using [SFML](https://www.sfml-dev.org/) and Perlin noise. It renders a pulsating sphere of glowing dots reacting to audio amplitude, creating a mesmerizing visual effect.
 
 <p align="center">
-  <img src="assets/NCS visualizer.gif" width="600">
+  <img src="NCSVisualizer.png" width="600">
 </p>
 
 
