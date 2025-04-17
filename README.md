@@ -53,22 +53,7 @@ cmake ..
 
 # Build the executable
 cmake --build .
-
-
-> ✅ Make sure `SFML` is installed and correctly linked. You can use system packages or build SFML yourself.
-
----
-
-## 🎵 Usage
-
-1. Place a `.wav` file named `faded.wav` in the root directory of the project.  
-   - Only uncompressed `.wav` files are supported.  
-   - You can convert `.mp3` to `.wav` using Audacity or online tools.  
-
-2. Run the executable:
-   ```bash
-   ./NCSVisualizer
-   ```
+```
 
 > ✅ Make sure `SFML` is installed and correctly linked. You can use system packages or build SFML yourself.
 
